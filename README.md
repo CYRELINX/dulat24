@@ -7,7 +7,7 @@
 
 <br>✨ About Me:
 
-I'm Janindu. I'm a Full Stack Developer who is passionate about making open-source projects, creating technology to elevate people, and building community and currently working on opensource projects at [Infinity Bots](https://github.com/Infinity-Bots). I love Python and HTML. 
+I'm Mister Robot. I love writing bots in Node.js also in HTML. I'm still a beginner in programming, although I have experience. But I will continue to study, so I don't see anything difficult here.
 
 📫 How to reach me:
 
